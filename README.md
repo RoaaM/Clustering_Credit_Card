@@ -50,5 +50,5 @@ You can access the interactive dashboard here:
 [https://app.powerbi.com/view?r=eyJrIjoiN2M3ZDQ1MmItZDFiMi00NzE0LThkYjktYmUxNzZjMWY1ZWMwIiwidCI6IjVmYjg0ZTZlLTNlOTctNDBlNC05NGVmLWE0YmVlYTg5NDkxMiIsImMiOjl9]
 
 and this is the dashboard image:
- ![dashboard](cridit card dashboard.png)
+ ![dashboard](cridit_card_dashboard.png)
 
