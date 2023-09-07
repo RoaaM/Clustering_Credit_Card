@@ -46,5 +46,9 @@ I have extensively analyzed this dataset to uncover valuable insights and trends
 ## Dashboard:
 I have also developed a user-friendly dashboard. This dashboard provides visualizations and summaries that facilitate a deeper understanding of the dataset, making it a powerful tool for strategic decision-making in credit card marketing.
 
+You can access the interactive dashboard here:
 [https://app.powerbi.com/view?r=eyJrIjoiN2M3ZDQ1MmItZDFiMi00NzE0LThkYjktYmUxNzZjMWY1ZWMwIiwidCI6IjVmYjg0ZTZlLTNlOTctNDBlNC05NGVmLWE0YmVlYTg5NDkxMiIsImMiOjl9]
+
+and this is the dashboard image:
+ ![dashboard](cridit card dashboard.png)
 
