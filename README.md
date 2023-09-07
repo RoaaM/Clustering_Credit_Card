@@ -3,7 +3,7 @@
 This dataset serves as a valuable resource for developing customer segmentation strategies in the realm of credit card marketing. It encapsulates the usage behavior of approximately 9,000 active credit card holders over the past 6 months, offering a customer-level view with 18 essential behavioral variables. Below is the Data Dictionary to help you understand the dataset:
 
 <ol>
-CUSTID: Unique identification for each credit card holder (Categorical) <br>
+CUSTID: Unique identification for each credit card holder (Categorical) 
   
 BALANCE: The remaining balance in the user's account for making purchases
 
