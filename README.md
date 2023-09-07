@@ -41,6 +41,6 @@ TENURE: The tenure of credit card service for the user
 
 </ol>
 
-# In this notebook:
+## In this notebook:
 I have extensively analyzed this dataset to uncover valuable insights and trends related to credit card usage behavior. To make the dataset more accessible and understandable, I have also developed a user-friendly dashboard. This dashboard provides visualizations and summaries that facilitate a deeper understanding of the dataset, making it a powerful tool for strategic decision-making in credit card marketing.
 
