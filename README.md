@@ -1,8 +1,8 @@
 # Credit Card Customer Segmentation Dataset:
 
 This dataset serves as a valuable resource for developing customer segmentation strategies in the realm of credit card marketing. It encapsulates the usage behavior of approximately 9,000 active credit card holders over the past 6 months, offering a customer-level view with 18 essential behavioral variables. Below is the Data Dictionary to help you understand the dataset:
+this is the URL of data set on kaggle [https://www.kaggle.com/datasets/arjunbhasin2013/ccdata]
 
-<ol>
 CUSTID: Unique identification for each credit card holder (Categorical) 
   
 BALANCE: The remaining balance in the user's account for making purchases
@@ -39,7 +39,6 @@ PRCFULLPAYMENT: The percentage of the full payment paid by the user
 
 TENURE: The tenure of credit card service for the user
 
-</ol>
 
 ## In this notebook:
 I have extensively analyzed this dataset to uncover valuable insights and trends related to credit card usage behavior. To make the dataset more accessible and understandable, I have also developed a user-friendly dashboard. This dashboard provides visualizations and summaries that facilitate a deeper understanding of the dataset, making it a powerful tool for strategic decision-making in credit card marketing.
